@@ -1,18 +1,13 @@
 # Contributing to MoveIt
 
-Thanks for getting involved! Information on contributing can be found at
-[http://moveit.ros.org/documentation/contributing/](http://moveit.ros.org/documentation/contributing/)
-
-
 Thanks for getting involved! 
 
-A more detailed description and further information on contributing can be 
-found at [http://moveit.ros.org/documentation/contributing/](http://moveit.ros.org/documentation/contributing/). 
-
-This document serves as a first-time instruction guide to getting involved with
+A more detailed description and further information on contributing can be
+found at [http://moveit.ros.org/documentation/contributing/](http://moveit.ros.org/documentation/contributing/). This 
+document serves as a first-time instruction guide to getting involved with
 contributing to MoveIt.
 
-# High level approach
+## High level approach
 
 1. Find something to fix/improve
 2. Get the code
@@ -20,14 +15,14 @@ contributing to MoveIt.
 4. Go through the PR checklist
 5. Make a PR
 
-# New contributor guide
+## New contributor guide
 **NOTE**: Ignore this section if you already have some experience collaborating with git.
 
 If you are a `git` first timer, go through the following resources to get familiar with collaborating with git
 - [Collaborating with git](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
 <!-- TODO: add a list of helper git resources -->
 
-# Finding something to work upon
+## Finding something to work upon
 
 Every new contribution needs to address an existing issue. Comment on an 
 existing issue and wait for feedback from an active maintainer. If you have a
@@ -35,11 +30,11 @@ feature that you would like to see implemented, create an issue or a discussion
 and wait for feedback from the broader community. Further information on
 how to choose an area to contribute can be found [here](http://moveit.ros.org/documentation/contributing/).
 
-# Get the code
+## Get the code
 Assuming you have found something to work upon, follow the steps below to prep
 your local machine to make changes
 
-## Preliminaries
+### Preliminaries
 
 Fork the repository using your personal account. This can be done by clicking
 on the `fork` button on the official MoveIt repo. Then clone your fork onto
