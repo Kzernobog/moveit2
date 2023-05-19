@@ -24,11 +24,14 @@ If you are a `git` first timer, go through the following resources to get famili
 
 ## Finding something to work upon
 
-Every new contribution needs to address an existing issue. Comment on an 
+It is advisable that every new contribution needs to address an existing issue. Comment on an 
 existing issue and wait for feedback from an active maintainer. If you have a
 feature that you would like to see implemented, create an issue or a discussion
 and wait for feedback from the broader community. Further information on
 how to choose an area to contribute can be found [here](http://moveit.ros.org/documentation/contributing/).
+
+Once having ascertained and scoped the requirement and scope of the feature/issue, and getting
+the green light from an active maintainer. Go ahead and create your feature branch as documented below  
 
 ## Get the code
 Assuming you have found something to work upon, follow the steps below to prep
